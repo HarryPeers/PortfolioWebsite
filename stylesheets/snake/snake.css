@@ -1,0 +1,194 @@
+@font-face {
+    font-family: 'Gilroy';
+    font-style: light;
+    font-weight: normal;
+    src: url("/font/light.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'GilroyBold';
+    font-style: bold;
+    font-weight: normal;
+    src: url("/font/bold.otf") format("opentype");
+}
+
+* {
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;         /* Opera/IE 8+ */
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #A2D149;
+    overflow-y: hidden;
+}
+
+button {
+    background-color: rgb(170, 204, 102);
+    border: none;
+    border-radius: 15px;
+    padding: 5px 10px 5px 10px;
+    color: grey;
+    margin-top: 5px;
+    font-family: 'Gilroy';
+}
+
+input {
+    background-color: rgb(170, 204, 102);
+    border: none;
+    border-radius: 15px;
+    padding: 5px 10px 5px 10px;
+    color: grey;
+    margin-right: 10px;
+    text-align: center;
+}
+
+input[type="color"] {
+    width: 50px !important;
+    height: 30px !important;
+    background-color: transparent;
+}
+
+h {
+    font-size: 32px;
+    color: grey;
+    font-family: 'GilroyBold';
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+}
+
+.container-inner {
+    width: 100%;
+    height: 100%;
+}
+
+.grid {
+    float:left;
+    width: 1.42857142857%;
+}
+
+.grid img {
+    /* background-color: yellow !important; */
+    max-width: 100%;
+    z-index: 5;
+}
+
+.body {
+    width: 115%;
+    height: 50%;
+    top: 25%;
+    position: relative;
+    background-color: green;
+}
+
+.body-corner {
+    width: 100%;
+    height: 100%;
+    background-color: green;
+}
+
+.rotated90 {
+    transform: rotate(90deg)
+}
+
+
+
+
+
+
+
+
+
+.menu-toggle {
+    position: absolute;
+    color: grey;
+    font-size: 32px;
+    top: 15px;
+    right: 25px;
+}
+
+.menu {
+    background-color: transparent;
+    width: 400px;
+    min-height: 400px;
+    position: relative;
+    margin: auto;
+    top: 200px;
+    color: grey;
+    font-size: 24px;
+    padding: 3px;
+    font-family: 'GilroyBold';
+}
+
+.menu-inner {
+    position: absolute;
+    width: 100%;
+}
+
+.menu-option {
+    width: 100%;
+    background-color: rgb(192, 239, 103);
+    border: 1px solid rgb(170, 204, 102);
+    border-radius: 8px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.menu-multiplayer {
+    display: none;
+    background-color: rgb(192, 239, 103);
+    border: 1px solid rgb(170, 204, 102);
+    border-radius: 8px;
+    padding: 5px 10px 5px 10px;
+    height: 400px;
+}
+
+.menu-multiplayer button {
+    float: right;
+}
+
+.menu-multiplayer-inner {
+    height: 80%;
+    max-height: 85%;
+    width: 85%;
+    overflow: scroll;
+    margin: 10px auto 5px auto;
+}
+
+.menu-multiplayer-inner div {
+    background-color: rgb(170, 204, 102);
+    padding: 5px 10px 15px 10px;
+    border-radius: 15px;
+    width: 100%;
+    font-size: 18px;
+    color: white;
+    font-family: 'Gilroy';
+    margin-top: 5px;
+}
+
+.menu-multiplayer-inner h {
+    font-size: 24px;
+}
+
+.menu-multiplayer-inner::-webkit-scrollbar {
+    display: none;
+}
+
+.menu-multiplayer-init {
+    background-color: rgb(192, 239, 103);
+    border: 1px solid rgb(170, 204, 102);
+    border-radius: 8px;
+    padding: 5px 10px 15px 10px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.menu-multiplayer-init input {
+    width: 100%;
+}
+
