@@ -1,6 +1,6 @@
-Snake project:<br />
-_  [HTML](/projects/snake)<br />
-_  [CSS](/stylesheets/snake)<br />
-_  [JS](/scripts/snake)<br />
-_  [API](/routers/snake.py)<br />
-_  [Images](/resources/snake)<br />
+*Snake project:<br />
+  *  [HTML](/projects/snake)<br />
+  *  [CSS](/stylesheets/snake)<br />
+  *  [JS](/scripts/snake)<br />
+  *  [API](/routers/snake.py)<br />
+  *  [Images](/resources/snake)<br />
