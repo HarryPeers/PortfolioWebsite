@@ -7,7 +7,7 @@
   *  [API](/index.py)<br />
   *  [Images](/resources/portfolio)<br />
 
-* Multiplayer:<br />
+* Multiplayer snake:<br />
   *  [HTML](/projects/snake)<br />
   *  [CSS](/stylesheets/snake)<br />
   *  [JS](/scripts/snake)<br />
