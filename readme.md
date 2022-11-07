@@ -6,7 +6,7 @@
   *  [JS](/scripts/portfolio)<br />
   *  [API](/index.py)<br />
   *  [Images](/resources/portfolio)<br />
-  *  
+ <br />
 * Multiplayer:<br />
   *  [HTML](/projects/snake)<br />
   *  [CSS](/stylesheets/snake)<br />
