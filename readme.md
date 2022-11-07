@@ -1,4 +1,4 @@
-*Snake project:<br />
+* Snake project:<br />
   *  [HTML](/projects/snake)<br />
   *  [CSS](/stylesheets/snake)<br />
   *  [JS](/scripts/snake)<br />
