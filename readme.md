@@ -1,4 +1,13 @@
-* Snake project:<br />
+**Projects**
+
+* Portfolio website:
+  *  [HTML](/projects/portfolio)<br />
+  *  [CSS](/stylesheets/portfolio)<br />
+  *  [JS](/scripts/portfolio)<br />
+  *  [API](/index.py)<br />
+  *  [Images](/resources/portfolio)<br />
+  *  
+* Multiplayer:<br />
   *  [HTML](/projects/snake)<br />
   *  [CSS](/stylesheets/snake)<br />
   *  [JS](/scripts/snake)<br />
