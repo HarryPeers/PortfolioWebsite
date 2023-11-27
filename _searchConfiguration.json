@@ -1,5 +1,5 @@
 {
-  "/src/": {
+  "src/": {
     "entrypoint": "",
     "tags": {
       "skills": ["Creative design", "Problem solving", "Responsive design"],
@@ -7,5 +7,5 @@
       "user interface": ["Websites"],
       "Operating system": "*"
     }
-  },
+  }
 }
