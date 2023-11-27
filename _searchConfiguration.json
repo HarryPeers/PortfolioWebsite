@@ -1,0 +1,11 @@
+{
+  ".": {
+    "entrypoint": "",
+    "tags": {
+      "skills": ["Creative design", "Problem solving", "Responsive design"],
+      "frameworks": ["Fast API"],
+      "user interface": ["Websites"],
+      "Operating system": "*"
+    }
+  },
+}
